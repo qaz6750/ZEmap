@@ -32,9 +32,6 @@
             android:name=".RouteActivity"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".NavigateActivity"
-            android:screenOrientation="portrait" />
-        <activity
             android:name=".SearchActivity"
             android:screenOrientation="portrait" />
 
