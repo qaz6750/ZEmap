@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tnboysmap"
+    android:versionCode="1"
+    android:versionName="1.0.0-1w2a" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="false"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Lmap"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.tnboysmap.aboutActivity" />
+        <activity android:name="com.example.tnboysmap.setupActivity" />
+        <activity android:name="com.example.tnboysmap.CommonActivity" />
+        <activity android:name="com.example.tnboysmap.bdmapActivity" />
+        <activity
+            android:name="com.example.tnboysmap.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.amap.api.navi.AmapRouteActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="com.example.tnboysmap.RouteActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.tnboysmap.NavigateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.tnboysmap.SearchActivity"
+            android:screenOrientation="portrait" />
+
+        <meta-data
+            android:name="com.amap.api.v2.apikey"
+            android:value="4b1015afa8b0544cba0607cfd0d67e4a" />
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="14bX4gAIIxPPTxPXgLilu4uwLVX7o5Hv" />
+
+        <service android:name="com.amap.api.location.APSService" />
+    </application>
+
+</manifest>
