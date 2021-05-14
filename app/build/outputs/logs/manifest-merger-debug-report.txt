@@ -1,278 +1,269 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-67:12
-INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-67:12
-INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-67:12
-INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-67:12
-MERGED from [com.android.support:design:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\004ad01d5bf40fdd30c8eac22d1379f8\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\21edf98c756198e4efff87ccae090fd2\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\192cf3a400347bdf824da2d87a62450d\AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da28559b0fa4c7c6a461785d51efdbac\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\6af57ea079c9e73b008d2f719f5a459d\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ec51451304ed67114ad8df275aac736d\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:transition:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fbc02f822365031f1e188d754d48c938\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2b2df0174ea47f3b513f5132f3c424f5\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7bc6c9ea81f4c1a223433fb54a82535e\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f52a2157b61f97af25d24ac7c2baac4c\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\138627fe99106a5d9e0ea31e5a256979\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ed095b1fafe744bed11a0d549000ff63\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f1ec6de105a877b5fd85bf754f229b2b\AndroidManifest.xml:17:1-31:12
-INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-67:12
-INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-67:12
-INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-67:12
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:design:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\92cc57243e97285450f171fde45fd951\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.hzw1199:AndroidGpsStatus:1.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\AndroidGpsStatus-1.1.aar\914de2bb330c1ebc0592f887b17bcfe4\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bd1649710c0993902c23a620ebfd94a7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\62b0b3679508f0b6336681a32d6fe197\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d14d6ba6411494b56a4a5d0ed47e60f0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9afef74acc480af86dd52bba921d1508\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a3b53bfea3450ce9ca94fe4920c03e6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05c6f1eb501ee2f3d82be918e3a074db\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c4229e0c4548d846c192385cb7aba398\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\64473e928fac7d01e7e731f6982484cd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6b973b2438babba586612789e9b501de\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b67eba059eef9f47c388a13eb348bf18\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0161b37aa50513db690af27b8c73cd4a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fc954f436e834d38c82b726b69d7aee0\AndroidManifest.xml:17:1-31:12
+INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-57:12
 	package
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:3:5-36
-		INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
-		INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-67:12
-		INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-67:12
-		INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:5:5-49:19
-MERGED from [com.android.support:design:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\004ad01d5bf40fdd30c8eac22d1379f8\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:design:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\004ad01d5bf40fdd30c8eac22d1379f8\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\21edf98c756198e4efff87ccae090fd2\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\21edf98c756198e4efff87ccae090fd2\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da28559b0fa4c7c6a461785d51efdbac\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da28559b0fa4c7c6a461785d51efdbac\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\6af57ea079c9e73b008d2f719f5a459d\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\6af57ea079c9e73b008d2f719f5a459d\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ec51451304ed67114ad8df275aac736d\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ec51451304ed67114ad8df275aac736d\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fbc02f822365031f1e188d754d48c938\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fbc02f822365031f1e188d754d48c938\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2b2df0174ea47f3b513f5132f3c424f5\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2b2df0174ea47f3b513f5132f3c424f5\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7bc6c9ea81f4c1a223433fb54a82535e\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7bc6c9ea81f4c1a223433fb54a82535e\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f52a2157b61f97af25d24ac7c2baac4c\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f52a2157b61f97af25d24ac7c2baac4c\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\138627fe99106a5d9e0ea31e5a256979\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\138627fe99106a5d9e0ea31e5a256979\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ed095b1fafe744bed11a0d549000ff63\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ed095b1fafe744bed11a0d549000ff63\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f1ec6de105a877b5fd85bf754f229b2b\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f1ec6de105a877b5fd85bf754f229b2b\AndroidManifest.xml:29:5-20
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:5:5-39:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\92cc57243e97285450f171fde45fd951\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\92cc57243e97285450f171fde45fd951\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bd1649710c0993902c23a620ebfd94a7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bd1649710c0993902c23a620ebfd94a7\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d14d6ba6411494b56a4a5d0ed47e60f0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d14d6ba6411494b56a4a5d0ed47e60f0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9afef74acc480af86dd52bba921d1508\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9afef74acc480af86dd52bba921d1508\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a3b53bfea3450ce9ca94fe4920c03e6\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a3b53bfea3450ce9ca94fe4920c03e6\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05c6f1eb501ee2f3d82be918e3a074db\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05c6f1eb501ee2f3d82be918e3a074db\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c4229e0c4548d846c192385cb7aba398\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c4229e0c4548d846c192385cb7aba398\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\64473e928fac7d01e7e731f6982484cd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\64473e928fac7d01e7e731f6982484cd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6b973b2438babba586612789e9b501de\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6b973b2438babba586612789e9b501de\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b67eba059eef9f47c388a13eb348bf18\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b67eba059eef9f47c388a13eb348bf18\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0161b37aa50513db690af27b8c73cd4a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0161b37aa50513db690af27b8c73cd4a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fc954f436e834d38c82b726b69d7aee0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fc954f436e834d38c82b726b69d7aee0\AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:8:9-29
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:8:9-29
 	android:roundIcon
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:6:9-36
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:6:9-36
 	android:theme
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.tnboysmap.GpsActivity
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:12:9-58
+	android:name
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:12:19-46
 activity#com.example.tnboysmap.aboutActivity
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:13:9-51
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:13:9-51
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:13:19-48
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:13:19-48
 activity#com.example.tnboysmap.setupActivity
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:14:9-51
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:14:9-51
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:14:19-48
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:14:19-48
 activity#com.example.tnboysmap.CommonActivity
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:15:9-52
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:15:9-52
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:15:19-49
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:15:19-49
 activity#com.example.tnboysmap.bdmapActivity
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:16:9-51
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:16:9-51
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:16:19-48
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:16:19-48
 activity#com.example.tnboysmap.MainActivity
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:17:9-25:20
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:17:9-25:20
 	android:screenOrientation
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:19:13-49
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:19:13-49
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:18:13-41
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:18:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:20:13-24:29
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:21:17-69
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:21:25-66
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:23:17-77
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:23:27-74
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:23:27-74
 activity#com.amap.api.navi.AmapRouteActivity
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:27:9-29:77
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:26:9-29:63
 	android:configChanges
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:29:13-74
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:28:13-74
 	android:theme
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:28:13-60
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:29:13-60
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:27:19-69
-activity#com.example.tnboysmap.RouteActivity
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:31:9-33:52
-	android:screenOrientation
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:33:13-49
-	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:32:13-42
-activity#com.example.tnboysmap.NavigateActivity
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:34:9-36:52
-	android:screenOrientation
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:36:13-49
-	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:35:13-45
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:27:13-63
 activity#com.example.tnboysmap.SearchActivity
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:37:9-39:52
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:30:9-32:52
 	android:screenOrientation
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:39:13-49
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:32:13-49
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:38:13-43
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:31:13-43
 meta-data#com.amap.api.v2.apikey
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:41:9-43:64
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:34:9-36:64
 	android:value
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:43:13-61
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:36:13-61
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:42:13-50
-meta-data#com.baidu.lbsapi.API_KEY
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:44:9-46:64
-	android:value
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:46:13-61
-	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:45:13-52
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:35:13-50
 service#com.amap.api.location.APSService
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:48:9-68
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:38:9-68
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:48:18-65
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:38:18-65
 uses-permission#android.permission.INTERNET
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:50:5-67
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:40:5-67
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:50:22-64
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:40:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:51:5-81
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:41:5-81
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:51:22-78
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:41:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:52:5-80
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:42:5-80
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:52:22-77
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:42:22-77
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:53:5-79
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:43:5-79
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:53:22-76
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:43:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:54:5-76
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:44:5-76
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:54:22-73
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:44:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:55:5-76
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:45:5-76
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:55:22-73
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:45:22-73
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:56:5-75
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:46:5-75
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:56:22-72
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:46:22-72
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:57:5-81
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:47:5-81
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:57:22-78
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:47:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:58:5-79
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:48:5-79
+MERGED from [com.github.hzw1199:AndroidGpsStatus:1.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\AndroidGpsStatus-1.1.aar\914de2bb330c1ebc0592f887b17bcfe4\AndroidManifest.xml:11:5-79
+MERGED from [com.github.hzw1199:AndroidGpsStatus:1.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\AndroidGpsStatus-1.1.aar\914de2bb330c1ebc0592f887b17bcfe4\AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:58:22-76
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:48:22-76
 uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:59:5-89
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:49:5-89
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:59:22-86
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:49:22-86
 uses-permission#android.permission.BLUETOOTH
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:60:5-68
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:50:5-68
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:60:22-65
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:50:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:61:5-74
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:51:5-74
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:61:22-71
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:51:22-71
 uses-permission#android.permission.WAKE_LOCK
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:62:5-68
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:52:5-68
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:62:22-65
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:52:22-65
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:63:5-71
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:53:5-71
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:63:22-68
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:53:22-68
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:65:5-73
+ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:55:5-73
 	android:name
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml:65:22-70
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml:55:22-70
 uses-sdk
-INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
-INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\004ad01d5bf40fdd30c8eac22d1379f8\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\004ad01d5bf40fdd30c8eac22d1379f8\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\21edf98c756198e4efff87ccae090fd2\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\21edf98c756198e4efff87ccae090fd2\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\192cf3a400347bdf824da2d87a62450d\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\192cf3a400347bdf824da2d87a62450d\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da28559b0fa4c7c6a461785d51efdbac\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\da28559b0fa4c7c6a461785d51efdbac\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\6af57ea079c9e73b008d2f719f5a459d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\6af57ea079c9e73b008d2f719f5a459d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ec51451304ed67114ad8df275aac736d\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ec51451304ed67114ad8df275aac736d\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fbc02f822365031f1e188d754d48c938\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fbc02f822365031f1e188d754d48c938\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2b2df0174ea47f3b513f5132f3c424f5\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2b2df0174ea47f3b513f5132f3c424f5\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7bc6c9ea81f4c1a223433fb54a82535e\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7bc6c9ea81f4c1a223433fb54a82535e\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f52a2157b61f97af25d24ac7c2baac4c\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f52a2157b61f97af25d24ac7c2baac4c\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\138627fe99106a5d9e0ea31e5a256979\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\138627fe99106a5d9e0ea31e5a256979\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ed095b1fafe744bed11a0d549000ff63\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ed095b1fafe744bed11a0d549000ff63\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f1ec6de105a877b5fd85bf754f229b2b\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f1ec6de105a877b5fd85bf754f229b2b\AndroidManifest.xml:21:5-23:58
-INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
-INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\92cc57243e97285450f171fde45fd951\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\92cc57243e97285450f171fde45fd951\AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.hzw1199:AndroidGpsStatus:1.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\AndroidGpsStatus-1.1.aar\914de2bb330c1ebc0592f887b17bcfe4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.hzw1199:AndroidGpsStatus:1.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\AndroidGpsStatus-1.1.aar\914de2bb330c1ebc0592f887b17bcfe4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bd1649710c0993902c23a620ebfd94a7\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bd1649710c0993902c23a620ebfd94a7\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\62b0b3679508f0b6336681a32d6fe197\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\62b0b3679508f0b6336681a32d6fe197\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d14d6ba6411494b56a4a5d0ed47e60f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d14d6ba6411494b56a4a5d0ed47e60f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9afef74acc480af86dd52bba921d1508\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9afef74acc480af86dd52bba921d1508\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a3b53bfea3450ce9ca94fe4920c03e6\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a3b53bfea3450ce9ca94fe4920c03e6\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05c6f1eb501ee2f3d82be918e3a074db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05c6f1eb501ee2f3d82be918e3a074db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c4229e0c4548d846c192385cb7aba398\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c4229e0c4548d846c192385cb7aba398\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\64473e928fac7d01e7e731f6982484cd\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\64473e928fac7d01e7e731f6982484cd\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6b973b2438babba586612789e9b501de\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6b973b2438babba586612789e9b501de\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b67eba059eef9f47c388a13eb348bf18\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b67eba059eef9f47c388a13eb348bf18\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0161b37aa50513db690af27b8c73cd4a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0161b37aa50513db690af27b8c73cd4a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fc954f436e834d38c82b726b69d7aee0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fc954f436e834d38c82b726b69d7aee0\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\004ad01d5bf40fdd30c8eac22d1379f8\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\92cc57243e97285450f171fde45fd951\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
-		INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
-		ADDED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
-		INJECTED from E:\TnboysMap-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\android guongc\TnboysMap-master\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\004ad01d5bf40fdd30c8eac22d1379f8\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\21edf98c756198e4efff87ccae090fd2\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\21edf98c756198e4efff87ccae090fd2\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\192cf3a400347bdf824da2d87a62450d\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\192cf3a400347bdf824da2d87a62450d\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\6af57ea079c9e73b008d2f719f5a459d\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\6af57ea079c9e73b008d2f719f5a459d\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ec51451304ed67114ad8df275aac736d\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ec51451304ed67114ad8df275aac736d\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fbc02f822365031f1e188d754d48c938\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:transition:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\fbc02f822365031f1e188d754d48c938\AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2b2df0174ea47f3b513f5132f3c424f5\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\2b2df0174ea47f3b513f5132f3c424f5\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7bc6c9ea81f4c1a223433fb54a82535e\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\7bc6c9ea81f4c1a223433fb54a82535e\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f52a2157b61f97af25d24ac7c2baac4c\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\f52a2157b61f97af25d24ac7c2baac4c\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\138627fe99106a5d9e0ea31e5a256979\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\138627fe99106a5d9e0ea31e5a256979\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ed095b1fafe744bed11a0d549000ff63\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\ed095b1fafe744bed11a0d549000ff63\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f1ec6de105a877b5fd85bf754f229b2b\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\f1ec6de105a877b5fd85bf754f229b2b\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:design:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\92cc57243e97285450f171fde45fd951\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bd1649710c0993902c23a620ebfd94a7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\bd1649710c0993902c23a620ebfd94a7\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\62b0b3679508f0b6336681a32d6fe197\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.3.1.aar\62b0b3679508f0b6336681a32d6fe197\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9afef74acc480af86dd52bba921d1508\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\9afef74acc480af86dd52bba921d1508\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a3b53bfea3450ce9ca94fe4920c03e6\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\7a3b53bfea3450ce9ca94fe4920c03e6\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05c6f1eb501ee2f3d82be918e3a074db\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\transition-25.3.1.aar\05c6f1eb501ee2f3d82be918e3a074db\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c4229e0c4548d846c192385cb7aba398\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\c4229e0c4548d846c192385cb7aba398\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\64473e928fac7d01e7e731f6982484cd\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\64473e928fac7d01e7e731f6982484cd\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6b973b2438babba586612789e9b501de\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\6b973b2438babba586612789e9b501de\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b67eba059eef9f47c388a13eb348bf18\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\b67eba059eef9f47c388a13eb348bf18\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0161b37aa50513db690af27b8c73cd4a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\0161b37aa50513db690af27b8c73cd4a\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fc954f436e834d38c82b726b69d7aee0\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\fc954f436e834d38c82b726b69d7aee0\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:design:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\004ad01d5bf40fdd30c8eac22d1379f8\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:design:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\92cc57243e97285450f171fde45fd951\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:design:25.3.1] C:\Users\LIZEYAN-PC\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\004ad01d5bf40fdd30c8eac22d1379f8\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:25.3.1] C:\Users\lizeyan-pc\.gradle\caches\transforms-1\files-1.1\design-25.3.1.aar\92cc57243e97285450f171fde45fd951\AndroidManifest.xml:26:9-47

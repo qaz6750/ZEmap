@@ -6,4 +6,6 @@
   <color name="accent">#607D8B</color>
   <color name="icons">#212121</color>
   <color name="divider">#BDBDBD</color>
+  <color name="skyblue">#87ceeb</color> <!-- 天蓝色 -->
+
 </resources>

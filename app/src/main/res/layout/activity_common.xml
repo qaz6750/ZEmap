@@ -11,10 +11,23 @@
         android:layout_width="63dp"
         android:layout_height="59dp"
         android:layout_marginEnd="148dp"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="48dp"
         android:background="@drawable/bt_shape"
         android:text="设置"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/yt"
+        android:layout_width="61dp"
+        android:layout_height="57dp"
+        android:layout_marginEnd="268dp"
+        android:layout_marginTop="48dp"
+        android:background="@drawable/tyut"
+        android:text="定位详情"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
 
 </android.support.constraint.ConstraintLayout>

@@ -9,6 +9,8 @@ import android.widget.Button;
 public class CommonActivity extends AppCompatActivity {
 
     private Button setup;
+    private Button yt;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,6 +24,17 @@ public class CommonActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent();
                 intent.setClass(CommonActivity.this, setupActivity.class);//this前面为当前activty名称，class前面为要跳转到得activity名称
+                startActivity(intent);
+            }
+        });
+
+        yt = (Button) findViewById(R.id.yt);
+
+        yt.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent();
+                intent.setClass(CommonActivity.this, GpsActivity.class);//this前面为当前activty名称，class前面为要跳转到得activity名称
                 startActivity(intent);
             }
         });

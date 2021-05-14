@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
+        <activity android:name=".GpsActivity"></activity>
         <activity android:name=".aboutActivity" />
         <activity android:name=".setupActivity" />
         <activity android:name=".CommonActivity" />
@@ -23,14 +23,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name="com.amap.api.navi.AmapRouteActivity"
-            android:theme="@android:style/Theme.NoTitleBar"
-            android:configChanges="orientation|keyboardHidden|screenSize" />
-
         <activity
-            android:name=".RouteActivity"
-            android:screenOrientation="portrait" />
+            android:name="com.amap.api.navi.AmapRouteActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.NoTitleBar" />
         <activity
             android:name=".SearchActivity"
             android:screenOrientation="portrait" />
@@ -38,9 +34,6 @@
         <meta-data
             android:name="com.amap.api.v2.apikey"
             android:value="4b1015afa8b0544cba0607cfd0d67e4a" />
-        <meta-data
-            android:name="com.baidu.lbsapi.API_KEY"
-            android:value="14bX4gAIIxPPTxPXgLilu4uwLVX7o5Hv" />
 
         <service android:name="com.amap.api.location.APSService" />
     </application>

@@ -302,7 +302,7 @@ public class MainActivity extends AppCompatActivity implements INaviInfoCallback
             if(isFirstLocate) {
                 isFirstLocate=false;
                 isFirstLocateFailed=true;
-                Snackbar.make(mapView, "Locate failed. Please check your settings.",
+                Snackbar.make(mapView, "定位失败 请检查您的设置。",
                         Snackbar.LENGTH_SHORT).show();
             }
         }
@@ -324,7 +324,6 @@ public class MainActivity extends AppCompatActivity implements INaviInfoCallback
                             Snackbar.LENGTH_SHORT).show();
                 }
                 break;
-
             case R.id.fab_plan:
                 AmapNaviParams params = new AmapNaviParams(new Poi("北京站", p3, ""), null, new Poi("故宫博物院", p2, ""), AmapNaviType.DRIVER);
                     params.setUseInnerVoice(true);
@@ -385,7 +384,7 @@ public class MainActivity extends AppCompatActivity implements INaviInfoCallback
             behavior.setState(BottomSheetBehavior.STATE_COLLAPSED);
         } else if(!isBackClickOnce){
             isBackClickOnce=true;
-            Snackbar.make(mapView, "Double-click to exit", Snackbar.LENGTH_SHORT).show();
+            Snackbar.make(mapView, "双击退出", Snackbar.LENGTH_SHORT).show();
             Timer exitTimer=new Timer();
             exitTimer.schedule(new TimerTask() {
                 @Override

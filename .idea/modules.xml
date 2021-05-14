@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TnboysMap-master.iml" filepath="$PROJECT_DIR$/TnboysMap-master.iml" group="TnboysMap-master" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="TnboysMap-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/TnboysMap-master.iml" filepath="$PROJECT_DIR$/TnboysMap-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TnboysMap-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TnboysMap-master.app.iml" />
     </modules>
   </component>
 </project>
