@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GpsActivity">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="357dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="124dp"
+        android:cursorVisible="false"
+        android:editable="false"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/et"
+        android:layout_width="359dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="200dp"
+        android:cursorVisible="false"
+        android:editable="false"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.adam.gpsstatus.GpsStatusTextView
+        android:id="@+id/gpsText"
+        android:layout_width="wrap_content"
+        android:layout_height="96dp"
+        android:gravity="center_vertical"
+        android:text="GPS"
+        android:textSize="48sp"
+        android:textStyle="bold"
+        app:colorClosed="@color/gps_icon_red"
+        app:colorFixed="@color/gps_icon_green"
+        app:colorUnFixed="@color/gps_icon_yellow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.385"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.029" />
+
+    <com.adam.gpsstatus.GpsStatusImageView
+        android:id="@+id/gpsImage"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:layout_marginEnd="68dp"
+        android:layout_marginTop="16dp"
+        app:drawable0="@drawable/ic_gps_0_24dp"
+        app:drawable1="@drawable/ic_gps_1_24dp"
+        app:drawable2="@drawable/ic_gps_2_24dp"
+        app:drawable3="@drawable/ic_gps_3_24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:thr_1_2="4"
+        app:thr_2_3="7" />
+
+
+</android.support.constraint.ConstraintLayout>
